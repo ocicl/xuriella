@@ -1,10 +1,9 @@
 * xuriella
 
+An XSLT processor written in Common Lisp.
 
-
-|---------+-------------------------------------------|
-| source  | git:git://repo.or.cz/xuriella.git   |
-| commit  |   |
-| systems | xuriella |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------|
+| source  | git:https://repo.or.cz/xuriella.git      |
+| commit  | 95c3422137bcc12fc28987047462b4352cfed792 |
+| systems | xuriella                                 |
+|---------+------------------------------------------|
